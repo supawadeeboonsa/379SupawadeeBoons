@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          6704101379 Supawade Boonsa
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
