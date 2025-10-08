@@ -54,7 +54,6 @@ export default {
       name,
       age,
       accept,
-
       onSubmit () {
         if (accept.value !== true) {
           $q.notify({
@@ -73,7 +72,6 @@ export default {
           })
         }
       },
-
       onReset () {
         name.value = null
         age.value = null
